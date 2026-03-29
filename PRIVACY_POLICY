@@ -1,0 +1,73 @@
+# Privacy Policy for TuneVision
+
+**Last Updated:** March 29, 2026
+
+## Overview
+
+TuneVision ("the App") is a musical instrument app developed by Meshy. We are committed to protecting your privacy and being transparent about how we handle your data.
+
+## Data Collection
+
+TuneVision does **not** collect, store, or transmit any user data to our servers. We have no servers, no databases, and no access to your information.
+
+### We Do NOT Collect
+
+- Personal identification information
+- Location data
+- Usage analytics or tracking
+- Advertising identifiers
+- Any data whatsoever
+
+## Data Storage
+
+All your data remains entirely under your control:
+
+1. **Locally** on your device
+
+The App stores a small amount of non-personal data locally on your device:
+
+- **Trial play counts** — the number of times each locked instrument has been previewed, so the App can show how many free trials remain.
+- **Purchase records** — managed entirely by Apple through StoreKit. No payment or billing information is accessible to the App.
+
+This data never leaves your device and is not transmitted to any server.
+
+## Third-Party Services
+
+TuneVision does **not** integrate any third-party SDKs, analytics, advertising frameworks, or tracking services. The App uses only Apple first-party frameworks.
+
+The only network communication is with the Apple App Store for in-app purchase verification, which is handled entirely by Apple's StoreKit framework.
+
+For more information, please refer to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+
+## Advertising
+
+The App contains **no advertisements** of any kind.
+
+## Data Sharing
+
+We do **not**:
+
+- Sell your data
+- Share your data with third parties
+- Use your data for advertising
+- Track your behavior
+
+## Children's Privacy
+
+TuneVision does not collect personal information from anyone, including children under 13. It is suitable for all ages and complies with COPPA and similar regulations worldwide.
+
+## Your Rights
+
+Since we do not collect any personal data, there is no personal information to access, correct, or delete. You can:
+
+- **Delete your data** by removing the app (local data)
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected with an updated "Last Updated" date above. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+## Contact
+
+For privacy questions, contact us at: davinci.dalhi@gmail.com
+
+This privacy policy applies to TuneVision on all Apple platforms: iOS, iPadOS, macOS, and visionOS.
